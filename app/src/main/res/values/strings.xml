@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Shopping Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_now">Login now</string>
+    <string name="login_desc">Please login to access</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="not_have_account">Don\'t have account?</string>
+    <string name="register">Register</string>
+    <string name="login_button">Login</string>
+    <string name="register_now">Register now</string>
+    <string name="register_desc">Register new account</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="register_button">Register</string>
+    <string name="email_hint">Email</string>
+    <string name="scan">Scan</string>
+    <string name="pay">Pay now</string>
+    <string name="empty_product">Please scan barcode to add product to cart.</string>
+    <string name="pay_success">Pay successfully</string>
+    <string name="empty_customer">Empty customer</string>
+    <string name="export">Export</string>
+    <string name="export_success">Export successfully</string>
+    <string name="done">Done</string>
+</resources>
